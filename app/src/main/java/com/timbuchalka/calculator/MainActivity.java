@@ -168,4 +168,12 @@ public class MainActivity extends AppCompatActivity {
         result.setText(operand1.toString());
         newNumber.setText("");
     }
+
+    // Add New Method Here For PUSH example.
+    public String returnName() {
+        return "Frank was here";
+    }
+
+
+
 }
