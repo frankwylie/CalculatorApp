@@ -174,6 +174,8 @@ public class MainActivity extends AppCompatActivity {
         return "Frank was here";
     }
 
-// This is a test to evaluate the git pull command. 
+// This is a test to evaluate the git pull command.
+
+// this is the 2nd part.
 
 }
